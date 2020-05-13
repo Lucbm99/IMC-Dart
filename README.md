@@ -1,2 +1,2 @@
 # IMC-Dart
-Cálculo do IMC, com estruturas de decisão.
+Calculation of Body Mass Index, with decision-making structures.
