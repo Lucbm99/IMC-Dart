@@ -1,6 +1,6 @@
 # Exercício - Cálculo de IMC - DART
 
-Código feito para auxiliar no aprendizado da linguagem Dart, com um cálculo de áreas de figuras geométricas.
+Código feito para auxiliar no aprendizado da linguagem Dart, com um cálculo de IMC de uma pessoa.
 
 ## 🚀 Instruções 
 Para que você veja o código do projeto funcionando em sua máquina, serão disponibilizadas algumas instruções no tópico 🔧 Como rodar o projeto? 
@@ -20,7 +20,7 @@ Copiar seu conteúdo e colocar ele no link: https://dartpad.dev/, ao lado esquer
 ![image](https://user-images.githubusercontent.com/45500959/111053979-5e071900-8447-11eb-898d-5b924e8b4138.png)
 
 Ao clicar em RUN, o resultado será exibido a sua direita: 
-![image](https://user-images.githubusercontent.com/45500959/111053986-7414d980-8447-11eb-9d84-7082fc4038cb.png)
+![image](https://user-images.githubusercontent.com/45500959/111054003-ac1c1c80-8447-11eb-999b-c152c109a308.png)
 
 
 O exercício trata-se de uma função para cálculo do IMC, com base no peso e altura do indivíduo, visto que a fórmula é descrita por: 
