@@ -12,7 +12,7 @@ Para isso, você irá precisar basicamente ter um navegador para acesso (Google 
 ### 🔧 Como rodar o exercício? 
 
 Na página inicial do projeto, clicar no arquivo imc.dart: 
-![image](https://user-images.githubusercontent.com/45500959/111053966-49c31c00-8447-11eb-8dca-88337523df95.png)
+![image](https://user-images.githubusercontent.com/45500959/111054020-c81fbe00-8447-11eb-8527-36ddf6ca7deb.png)
 
 
 Copiar seu conteúdo e colocar ele no link: https://dartpad.dev/, ao lado esquerdo: 
